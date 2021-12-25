@@ -15,8 +15,6 @@
 
 - 📫 Email **doaaabdeen9@gmail.com**
 
-- 🧚‍♀️ Fun fact **Otaku**
-
 ## 🚀 Languages and Tools :
 
 <p align="left"> 
