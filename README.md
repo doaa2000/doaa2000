@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧍‍♀️ About Me :<br><br>🛠 I’m currently working on:<br>Building mobile applications using Flutter<br><br>🤝 I’m looking to collaborate on:<br>Full Stack .NET projects, Flutter apps, and data analysis dashboards.<br><br><br>💬 Ask me about:<br>Flutter development, app publishing on Apple Store & Google Play, APIs, payment integration (MyFatoorah), MVVM, and Google Maps API.<br><br>⚡ Fun fact:<br>I love learning new skills all the time—even if I start from zero!
+🧍‍♀️ About Me :<br><br>🛠 I’m currently working on:<br>Building mobile applications using Flutter<br><br>💬 Ask me about:<br>Flutter development, app publishing on Apple Store & Google Play, APIs, payment integration (MyFatoorah), MVVM, and Google Maps API.<br><br>⚡ Fun fact:<br>I love learning new skills all the time—even if I start from zero!
 
 
 ## 🌐 Socials:
